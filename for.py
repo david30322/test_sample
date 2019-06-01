@@ -1,7 +1,7 @@
 names = ['david', 'micheal', 'seven']
 for name in names:
    print 'hello',name,'!'
-sum = 0
+sum = 1
 for x in range(101):
     y = x%12
     print y
