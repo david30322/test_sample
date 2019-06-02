@@ -10,3 +10,4 @@ for x in range(101):
 print 'sun=',sum
 print 'the whole world'
 print 'you are'
+print 'the one'
